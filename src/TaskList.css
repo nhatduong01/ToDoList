@@ -1,0 +1,57 @@
+.Inputtask {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.Inputtask > button {
+  background: #fff;
+  color: aqua;
+  margin-left: 10px;
+  border: solid;
+  border-color: aqua;
+  cursor: pointer;
+  height: 30px;
+  border-radius: 3px;
+}
+.Inputtask > input {
+  height: 30px;
+  border-radius: 3px;
+  border: solid;
+  border-color: aqua;
+}
+.hero > h4 {
+  text-align: center;
+  font-size: medium;
+}
+.UIcard {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  padding: 10px;
+  width: max-content;
+}
+.content > h5 {
+  font-weight: lighter;
+}
+.content {
+  width: max-content;
+}
+.twobuttons > button {
+  background: #fff;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+}
+.button2 {
+  color: red;
+  border-color: red;
+}
+.button1 {
+  border-right: none;
+  margin-left: 0;
+  color: green;
+  border-color: green;
+}
